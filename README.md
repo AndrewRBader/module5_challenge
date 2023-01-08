@@ -21,7 +21,8 @@ To clone and use:
 2) clone down this repo with git clone command
 3) cd into cloned repo
 4) activate conda development environment
-5) install via the following commands
+5) install via the following commands:
+
     pip install os
     pip install -c anaconda requests
     pip install -c jmcmurray json
@@ -30,3 +31,12 @@ To clone and use:
     pip install alpaca-trade-api
 
 6) open in Jupyter Notebook
+
+# Usage
+
+
+# License
+N/A
+
+# Contributor:
+Andrew Bader
