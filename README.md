@@ -24,10 +24,15 @@ To clone and use:
 5) install via the following commands:
 
     pip install os
+
     pip install -c anaconda requests
+
     pip install -c jmcmurray json
+
     pip install pandas
+
     pip install python-dotenv
+    
     pip install alpaca-trade-api
 
 6) open in Jupyter Notebook
