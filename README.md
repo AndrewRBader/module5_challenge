@@ -21,7 +21,7 @@ To clone and use:
 2) clone down this repo with git clone command
 3) cd into cloned repo
 4) activate conda development environment
-5) install via the following commands:
+5) install dependencies via the following commands:
 
     pip install os
 
@@ -32,7 +32,7 @@ To clone and use:
     pip install pandas
 
     pip install python-dotenv
-    
+
     pip install alpaca-trade-api
 
 6) open in Jupyter Notebook
