@@ -33,7 +33,7 @@ To clone and use:
 6) open in Jupyter Notebook
 
 # Usage
-
+- there is no user interface here, just results from the requested analysis
 
 # License
 N/A
