@@ -15,7 +15,7 @@ I developed a tool to help credit union members evaluate their financial health.
 - dotenv
 - alpaca_trade_api
 
-# Installation Instructions
+# Installation Instructions/Usage
 To clone and use:
 1) make a local directory for this github repository
 2) clone down this repo with git clone command
@@ -31,9 +31,6 @@ To clone and use:
     pip install alpaca-trade-api
 
 6) open in Jupyter Notebook
-
-# Usage
-- there is no user interface here, just results from the requested analysis
 
 # License
 N/A
